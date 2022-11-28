@@ -39,6 +39,5 @@ Treo is the best and advanced Activities bot , Suggestions bot , Poll bot and al
 <H4> avatar
 <H4> banner
 <H4> serverinfo
-<H4>
-<H4>
-<H4>
+<H1>Fun commands</H1>
+<H4> nitro

@@ -1,4 +1,11 @@
 Treo is the best and advanced Activities bot , Suggestions bot , Poll bot and also with moderation Commands!<br>
+<H1>Info Commands</H1>
+<H4> help
+<H4> developers
+<H4> changelogs
+<H4> ping
+<H4> invite
+<H4> vote
 <H1>Activities Command</H1>
 <H4> activity youtube
 <H4> activity chess

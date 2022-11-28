@@ -16,12 +16,13 @@ Treo is the best and advanced Activities bot , Suggestions bot , Poll bot and al
 <H4> suggestions reset
 <H4> suggest
 <H1>Moderation Commands</H1>
-
-
-
-
-
-
-
-
-
+<H4> Ban / unban
+<H4> Lock / unlock
+<H4> 
+<H4> 
+<H4> 
+<H4> 
+<H4> 
+<H4> 
+<H4> 
+<H4> 

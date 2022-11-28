@@ -32,3 +32,13 @@ Treo is the best and advanced Activities bot , Suggestions bot , Poll bot and al
 <H4> role 
 <H4> roleinfo
 <H4> timeout /timeout remove
+<H1>Utilities Commands</H1>
+<H4> calculator
+<H4> poll
+<H4> userinfo
+<H4> avatar
+<H4> banner
+<H4> serverinfo
+<H4>
+<H4>
+<H4>

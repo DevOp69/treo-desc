@@ -18,11 +18,10 @@ Treo is the best and advanced Activities bot , Suggestions bot , Poll bot and al
 <H1>Moderation Commands</H1>
 <H4> Ban / unban
 <H4> Lock / unlock
-<H4> 
-<H4> 
-<H4> 
-<H4> 
-<H4> 
-<H4> 
-<H4> 
-<H4> 
+<H4> slow mode / slow mode-remove
+<H4> kick
+<H4> nuke
+<H4> purge
+<H4> role 
+<H4> roleinfo
+<H4> timeout /timeout remove
